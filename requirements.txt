@@ -1,1 +1,5 @@
 pillow
+django
+sqlparse
+tzdata
+asgiref
